@@ -1,9 +1,11 @@
-# amazon-sales-dashboard-powerbi
-Interactive Amazon Sales Dashboard built using Power BI for business insights and KPI analysis.
-# Amazon Sales Dashboard - Power BI Project
+# Amazon Sales Dashboard using Power BI
+
+![Dashboard Preview](amazon_dashboard.png)
 
 ## Overview
-This project is an interactive Amazon Sales Dashboard built using Power BI to analyze sales performance, customer behavior, profit trends, and regional sales distribution.
+This project is an interactive Amazon Sales Dashboard developed using Power BI to analyze sales performance, profitability, customer behavior, shipping analysis, and regional trends.
+
+The dashboard transforms raw sales data into meaningful business insights through interactive visualizations and KPI tracking.
 
 ## Dashboard Features
 - Sales & Profit Analysis
@@ -14,15 +16,23 @@ This project is an interactive Amazon Sales Dashboard built using Power BI to an
 - Top Profitable Sub-Categories
 - State-wise Return Analysis
 
-## Tools & Technologies
+## Skills Demonstrated
 - Power BI
 - Data Visualization
-- Business Intelligence
 - KPI Analysis
+- Business Intelligence
+- Dashboard Design
+- Data Storytelling
+- Analytical Thinking
 
-## Dashboard Preview
-
-![Dashboard](amazon_dashboard.png)
+## Dataset
+The dataset contains Amazon sales-related transactional data including:
+- Sales
+- Profit
+- Quantity
+- Customer Segments
+- Shipping Modes
+- Regional Performance
 
 ## Project Files
 - `.pbix` Power BI source file
@@ -31,10 +41,10 @@ This project is an interactive Amazon Sales Dashboard built using Power BI to an
 
 ## Key Learnings
 - Interactive dashboard creation
-- Data storytelling
-- KPI visualization
-- Business analytics concepts
+- Business KPI visualization
 - Dashboard design principles
+- Analytical thinking using data
+- Data storytelling techniques
 
 ## Author
 Prajwal C A
